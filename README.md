@@ -69,4 +69,4 @@ This project is open-source under the **MIT License**. Feel free to use, modify,
 
 ---
 
-💡 **Want to take this further? Let’s build something next-level together!** 🔥
+
